@@ -15,7 +15,7 @@
 
 body {
     color: #000;
-    font-family: fantasy;
+    font-family: fantasy, sans-serif;
     background: var(--main-bg);
     text-align: center;
     padding: 1rem;
@@ -26,7 +26,6 @@ header {
 }
 
 h1 {
-    /* text-shadow: 1px 1px #FFE81F; */
     font-size: 100px;
     -webkit-text-stroke: 2px #FFE81F;
 }
@@ -81,5 +80,9 @@ input {
     input {
         width: 80vw;
         height: auto;
+    }
+    h1 {
+        font-size: 30px;
+        -webkit-text-stroke: 1px #FFE81F;
     }
 }
