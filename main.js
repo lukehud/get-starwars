@@ -62,3 +62,4 @@ function fetchAllCharacters() {
 // add asset pictures in the folder and find a way to have JS look for the character & add a baseball card style pic next to the character.
 // download/add actual star wars font
 // implement an additional button to fetch a different set of "all characters"
+// implement functionality for search bar from Dylan's github
